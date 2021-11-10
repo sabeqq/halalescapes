@@ -1,0 +1,36 @@
+.logo-image{
+   justify-self: start;
+   margin-left: 20px;
+   cursor: pointer;
+}
+
+.helogo {
+width: 275px;
+}
+
+.NavBarItems {
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.nav-menu {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    width: 80vw;
+    justify-content: end;
+    margin-right: 2rem;
+    color: #f0a290;
+}
+
+.nav-links {
+color: #de1e40;
+text-decoration: none;
+padding: 0.5rem 1rem;
+font-family: 'Lato', sans-serif;
+}

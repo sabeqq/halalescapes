@@ -1,0 +1,58 @@
+.HeroParent  {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+
+
+}
+
+
+.HeroParent .HeroLeft {
+    margin: 50px;
+
+
+
+}
+
+.HeroParent .HeroRight {
+    margin: 50px;
+
+
+}
+
+.HeroParent .HeroRight .holidayhero {
+    border-radius: 25px;
+    width: 600px;
+
+
+
+}
+
+.HeroParent .HeroLeft .herotext1 {
+    margin-bottom: 20px;
+
+}
+
+.HeroParent .HeroLeft .herotext2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+
+
+}
+
+.HeroParent .HeroLeft .herotext3 {
+    margin-bottom: 20px;
+    width: 400px;
+
+
+}
+
+.HeroParent .HeroLeft .herobuttons{
+    display: flex;
+    margin-bottom: 20px;
+
+}
+
+.HeroParent .HeroLeft .herotrust {
+
+}
