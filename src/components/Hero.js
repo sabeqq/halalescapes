@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css' 
-import holidayhero from '../images/holidayhero.jpg';
+import paintstroke from '../images/paintstroke.png';
 
 function Hero() {
     return (
@@ -34,7 +34,7 @@ function Hero() {
 
             </div>
             <div className='HeroRight'>
-                <img src={holidayhero} alt="holiday" className="holidayhero"/> 
+                <img src={paintstroke} alt="holiday" className="holidayhero"/> 
 
             </div>
             

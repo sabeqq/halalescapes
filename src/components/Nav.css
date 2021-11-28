@@ -1,6 +1,6 @@
 .logo-image{
    justify-self: start;
-   margin-left: 20px;
+   margin-left: 3rem;
    cursor: pointer;
 }
 
@@ -13,7 +13,7 @@ width: 275px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1.2rem;
+    font-size: 10rem;
 }
 
 .nav-menu {
@@ -34,3 +34,4 @@ text-decoration: none;
 padding: 0.5rem 1rem;
 font-family: 'Lato', sans-serif;
 }
+

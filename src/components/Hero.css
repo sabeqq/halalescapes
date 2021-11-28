@@ -1,8 +1,7 @@
 .HeroParent  {
     display: flex;
     justify-content: space-between;
-    margin: 50px;
-
+    align-items: center;
 
 }
 
@@ -10,47 +9,44 @@
 .HeroParent .HeroLeft {
     margin: 50px;
 
-
-
 }
 
 .HeroParent .HeroRight {
     margin: 50px;
 
-
 }
 
 .HeroParent .HeroRight .holidayhero {
     border-radius: 25px;
-    width: 600px;
-
-
-
+    width: 1000px;
+    
 }
 
 .HeroParent .HeroLeft .herotext1 {
     margin-bottom: 20px;
+    font-size: 4rem;
+    color: #72a9a4;
 
 }
 
 .HeroParent .HeroLeft .herotext2 {
-    font-size: 2rem;
+    font-size: 15rem;
     margin-bottom: 20px;
-
-
+    color: #3e3342;
 }
 
 .HeroParent .HeroLeft .herotext3 {
     margin-bottom: 20px;
-    width: 400px;
-
-
+    width: 550px;
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 100%;
 }
+
 
 .HeroParent .HeroLeft .herobuttons{
     display: flex;
     margin-bottom: 20px;
-
 }
 
 .HeroParent .HeroLeft .herotrust {

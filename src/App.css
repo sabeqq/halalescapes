@@ -1,12 +1,16 @@
 
 *{
+  font-size: 62.5%;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
 body{
-font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
+  max-width: 1920px;
+  margin: 0 auto;
+  
 
 }
 
