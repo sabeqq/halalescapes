@@ -19,7 +19,6 @@
 
 }
 
-
 .HeroParent .HeroLeft {
     margin: 50px;
 
@@ -66,11 +65,6 @@
     
 }
 
-.startbutton{
-
-
-}
-
 .HeroParent .HeroLeft .herotrust {
     margin-top: 25px;
     width: 200px;
@@ -93,7 +87,6 @@
 }
 
 
-
 .travelcomp .travelcompicons {
  display: flex;
  text-align: center;
@@ -105,15 +98,32 @@
 
 .travelcomp .travelcompicons h1{
     font-size: 30px;
+    margin-bottom: 20px;
+    
 
 }
 
 .travelcomp .travelcompicons p1{
-    font-size: 15px;
-    width: 200px;
+    font-size: 22px;
+    color:grey;
+    
+  
+    
+    
+    
+  
+   
 
 }
-
+.inner-travel-txt {
+  
+    width: 250px;
+    text-align: center;
+    margin: auto;
+  
+   
+}
+ 
 .inner-travel-img {
     display: flex;
     height: 300px;

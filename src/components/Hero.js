@@ -64,33 +64,48 @@ function Hero() {
 
             </div>
             <div className='travelcompicons'>
+
                 <div className='travelimages1'>
                     <div className='inner-travel-img'>
                         <img src={couples} alt="holiday1" className="travelimg1"/>
                     </div>
+                    <div className='inner-travel-txt'>
                     <h1>For Couples</h1>
                     <p1>Built Wicket longer admire do barton vanity itself do in it.</p1>
+                    </div>
                 </div>
+
+
                 <div className='travelimages2'>
                 <div className='inner-travel-img'>
                     <img src={smallfamilies} alt="holiday2" className="travelimg2"/>
                 </div> 
+                <div className='inner-travel-txt'>
                     <h1>Small families</h1>
-                    <p1></p1>
+                    <p1>Engrossed listening. Park gate sell they west hard for the.</p1>
+                    </div>
                 </div>
+
+
                 <div className='travelimages3'>
                 <div className='inner-travel-img'>
                     <img src={budget} alt="holiday3" className="travelimg3"/> 
                 </div>
+                <div className='inner-travel-txt'>
                     <h1>Budget</h1>
-                    <p1></p1>
+                    <p1>Barton vanity itself do in it. Preferd to men it engrossed listening. </p1>
                 </div>
+                </div>
+
+                
                 <div className='travelimages4'>
                 <div className='inner-travel-img'>
                     <img src={peaceofmind} alt="holiday4" className="travelimg4"/> 
                 </div>
+                <div className='inner-travel-txt'>
                     <h1>Peace of mind</h1>
-                    <p1></p1>
+                    <p1>A personal travel expert will arrange everything for your and make sure you holiday is perfect. </p1>
+                </div>
                 </div>
                 
 
