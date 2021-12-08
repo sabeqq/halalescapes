@@ -5,18 +5,20 @@
 }
 
 .helogo {
-width: 275px;
+width: 500px;
 }
 
 .NavBarItems {
+    margin-top: 50px;
     height: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 10rem;
+    font-size: 12rem;
 }
 
 .nav-menu {
+  
     display: grid;
     grid-template-columns: repeat(3, auto);
     grid-gap: 10px;

@@ -7,6 +7,7 @@ import smallfamilies from '../images/small-families.png';
 import budget from '../images/budget.png';
 import peaceofmind from '../images/peace-of-mind.png';
 import trust from '../images/trust.png';
+import hotel from '../images/hotel.png';
 
 
 
@@ -119,6 +120,44 @@ function Hero() {
             </div>
             
             
+        </div>
+
+        <div className='about'>
+            <div className='about-left'>
+                <div className='about-img'>
+                <img src={hotel} alt="" className="hotel"/> 
+
+                </div>
+            </div>
+
+            <div className='about-right'>
+               <div className='about-txt'>
+                    <div className='about-text-1'>
+                        <h1>
+                          About Us
+                        </h1>
+                    </div>
+                    <div className='about-text-2'>
+                        <h1>
+                            Halal Escapes In A Nutshell.
+                        </h1>
+                    </div>
+                    <div className='about-text-3'>
+                        <p1>
+                            Developed by Muslims for Muslims, we'll design packages with the Muslim traveller in mind. Rest assured, your Muslim needs are covered. 
+                            
+                            We know from our experiences how time consuming it is to search for the perfect Muslim getaway. So we've scoured the world and curated extraordinary Muslim friendly holiday packages. We make sure to know your preferences first, that way we only show the packages that matter to you first.
+                            
+                            All our packages include flights and accommodation. Based on the type of holiday you’re after we also recommend you things to do and where to eat.
+                            
+                        </p1>
+                    </div>
+                    <div className='herobuttons'>
+                         <button class="p-2 pl-5 pr-5 bg-red-500 text-gray-100 text-lg rounded-lg focus:border-4 border-red-500">Start Your Trip</button>
+                    </div>
+                </div>
+
+            </div>
         </div>
 
 
